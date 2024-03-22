@@ -1,0 +1,3 @@
+C:/Users/Robert/Documents/facultate/anu2/algoritmi/lab10_dai/cmake-build-debug/CMakeFiles/lab10_dai.dir
+C:/Users/Robert/Documents/facultate/anu2/algoritmi/lab10_dai/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Robert/Documents/facultate/anu2/algoritmi/lab10_dai/cmake-build-debug/CMakeFiles/rebuild_cache.dir
