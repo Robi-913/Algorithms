@@ -1,0 +1,7 @@
+﻿  bfs.cpp
+C:\Users\Robert\Documents\facultate\anu2\algoritmi\lab11\lab11\Profiler.h(9,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'bfs.cpp')
+  C:\Users\Robert\Documents\facultate\anu2\algoritmi\lab11\lab11\Profiler.h(9,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  lab11.vcxproj -> C:\Users\Robert\Documents\facultate\anu2\algoritmi\lab11\x64\Debug\lab11.exe
