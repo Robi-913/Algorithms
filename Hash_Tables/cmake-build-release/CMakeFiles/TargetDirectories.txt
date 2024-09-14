@@ -1,3 +1,0 @@
-C:/Users/ardel/Documents/facultate/anu2/algoritmi/lab6/cmake-build-release/CMakeFiles/lab6.dir
-C:/Users/ardel/Documents/facultate/anu2/algoritmi/lab6/cmake-build-release/CMakeFiles/edit_cache.dir
-C:/Users/ardel/Documents/facultate/anu2/algoritmi/lab6/cmake-build-release/CMakeFiles/rebuild_cache.dir
