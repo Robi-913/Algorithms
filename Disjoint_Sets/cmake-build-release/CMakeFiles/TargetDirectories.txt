@@ -1,3 +1,0 @@
-C:/Users/Robert/Documents/facultate/anu2/algoritmi/lab10_dai/cmake-build-release/CMakeFiles/lab10_dai.dir
-C:/Users/Robert/Documents/facultate/anu2/algoritmi/lab10_dai/cmake-build-release/CMakeFiles/edit_cache.dir
-C:/Users/Robert/Documents/facultate/anu2/algoritmi/lab10_dai/cmake-build-release/CMakeFiles/rebuild_cache.dir
